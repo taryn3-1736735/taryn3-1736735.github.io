@@ -1,0 +1,67 @@
+body{
+	background-image: url('wood.jpg');
+}
+
+#Header{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: #8339CF;
+	color: #FFBC00;
+	font-family: "Passion One";
+	border: solid 8px black;
+	font-size: 35px;
+}
+
+h3{
+	color: #FFBC00;
+	font-size: 35px;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+}
+
+p{
+	color: white;
+	font-family: "Arial";
+	font-weight: bold;
+}
+
+#LeftNav{
+	float: left;
+	width: 320px;
+	border: solid 8px black;
+	text-align: center;
+	background-color: #8339CF;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#Content {
+	width: 620px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+	background-color: #8339CF;
+	padding: 15px;
+}
+
+#bow {
+	color: #FFBC00;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#Footer {
+	background-color: #8339CF;
+	text-align: center;
+	border: solid 8px black;
+}
+
+
+
